@@ -1,2 +1,3 @@
-# martin_michlmayr_debian_nslu2_images_mirror
-A mirror of the Debian images which Martin Michlmayr has prepared for the NSLU2.
+This is a mirror of the Debian OS images which Martin Michlmayr has prepared for the Linksys [NSLU2](https://en.wikipedia.org/wiki/NSLU2).
+
+See Martin's instructions at http://www.cyrius.com/debian/nslu2/unpack/
